@@ -22,7 +22,7 @@ The goal was to recreate a landing page layout based on a provided design image.
 
 ### 🚀 Live Preview
 
-[`Click Here`](https://www.devxsameer.github.io/odin-landing-page) for live preview.
+[`Click Here`](https://devxsameer.github.io/odin-landing-page/) for live preview.
 
 ---
 
